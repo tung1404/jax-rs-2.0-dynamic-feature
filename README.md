@@ -1,4 +1,7 @@
 Apache CXF and Dynamic Features
+
+https://dzone.com/articles/your-jax-rs-apis-were-not-born-equal-using-dynamic
+
 ==============
 
 - Non-Validating API: 500 Internal Server Error  
